@@ -1,21 +1,21 @@
 {
   "files": {
-    "app.js": "/web-build/static/js/app.63ae4f63.chunk.js",
-    "app.js.map": "/web-build/static/js/app.63ae4f63.chunk.js.map",
-    "runtime~app.js": "/web-build/static/js/runtime~app.aec8f131.js",
-    "runtime~app.js.map": "/web-build/static/js/runtime~app.aec8f131.js.map",
-    "static/js/2.2f506733.chunk.js": "/web-build/static/js/2.2f506733.chunk.js",
-    "static/js/2.2f506733.chunk.js.map": "/web-build/static/js/2.2f506733.chunk.js.map",
-    "favicon-16.png": "/web-build/favicon-16.png",
-    "favicon-32.png": "/web-build/favicon-32.png",
-    "favicon.ico": "/web-build/favicon.ico",
-    "index.html": "/web-build/index.html",
-    "manifest.json": "/web-build/manifest.json",
-    "serve.json": "/web-build/serve.json",
-    "static/js/2.2f506733.chunk.js.LICENSE.txt": "/web-build/static/js/2.2f506733.chunk.js.LICENSE.txt"
+    "app.js": "/Calculadora/static/js/app.63ae4f63.chunk.js",
+    "app.js.map": "/Calculadora/static/js/app.63ae4f63.chunk.js.map",
+    "runtime~app.js": "/Calculadora/static/js/runtime~app.0f5fe98e.js",
+    "runtime~app.js.map": "/Calculadora/static/js/runtime~app.0f5fe98e.js.map",
+    "static/js/2.2f506733.chunk.js": "/Calculadora/static/js/2.2f506733.chunk.js",
+    "static/js/2.2f506733.chunk.js.map": "/Calculadora/static/js/2.2f506733.chunk.js.map",
+    "favicon-16.png": "/Calculadora/favicon-16.png",
+    "favicon-32.png": "/Calculadora/favicon-32.png",
+    "favicon.ico": "/Calculadora/favicon.ico",
+    "index.html": "/Calculadora/index.html",
+    "manifest.json": "/Calculadora/manifest.json",
+    "serve.json": "/Calculadora/serve.json",
+    "static/js/2.2f506733.chunk.js.LICENSE.txt": "/Calculadora/static/js/2.2f506733.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime~app.aec8f131.js",
+    "static/js/runtime~app.0f5fe98e.js",
     "static/js/2.2f506733.chunk.js",
     "static/js/app.63ae4f63.chunk.js"
   ]
